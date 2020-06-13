@@ -2,7 +2,7 @@
 layout: page
 permalink: /index.html
 ---
-<center>## YU, BING (於兵) Homepage</center>
+## <center>YU, BING (於兵) Homepage</center>
 
 ### Zhengzhou University (郑州大学) 
 

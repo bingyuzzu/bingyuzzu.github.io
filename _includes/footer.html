@@ -1,9 +1,36 @@
-<footer class="container bg-light" style="position:sticky;bottom:0;">
-  <div class="navbar navbar-default navbar-fixed-bottom">
+
+<footer class="footer py-4 js-page-footer">
+  <div class="main text-center">
+  {%- include snippets/get-locale-string.html key='COPYRIGHT_DATES' -%}
+  {%- assign _locale_copyright_dates = __return -%}
   <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   <div class="nav navbar-text">
-      © <a href="mailto:{{ _author.email }}" target="_blank"> {{ site.title }} </a> 2019 - <script>document.write(new Date().getFullYear());</script> | All Rights Reserved.       
+      {%- include snippets/get-locale-string.html key='COPYRIGHT_DATES' -%}
+      {%- assign _locale_copyright_dates = __return -%}
+      © <a href="mailto:{{ _author.email }}" target="_blank"> {{ site.title }} </a> 2019 - {{ _locale_copyright_dates }} | All Rights Reserved. | 站内统计：<span id="busuanzi_container_site_uv">访客数<span id="busuanzi_value_site_uv", Style="color:red"></span>人，</span>
+                  <span id="busuanzi_container_site_pv">总访问量<span id="busuanzi_value_site_pv", Style="color:red"></span>次</span>
 </div>
   </div>
+   <!--
+   {%- assign _site_author = site.author -%}
+    {%- if _site_author.type == 'organization' -%}
+      {%- assign _site_author_itemtype = 'http://schema.org/Organization' -%}
+    {%- else -%}
+      {%- assign _site_author_itemtype = 'http://schema.org/Person' -%}
+    {%- endif -%}
 
+    <div itemscope itemtype="{{ _site_author_itemtype }}">
+      <meta itemprop="name" content="{{ _site_author.name }}">
+      {%- assign _site_author_url = _site_author.url | default: '/'-%}
+      {%- include snippets/get-nav-url.html path=_site_author_url -%}
+      {%- assign _site_author_url = __return -%}
+      <meta itemprop="url" content="{{ _site_author_url }}">
+      {%- if _site_author.bio -%}
+        <meta itemprop="description" content="{{ _site_author.bio }}">
+      {%- endif -%}
+      <div class="footer__author-links">
+        {%- include author-links.html author=_site_author -%}
+      </div>
+    </div>
+    -->
 </footer>

@@ -1,0 +1,23 @@
+---
+permalink: /nav/index.html
+layout: nav
+---
+
+
+{%- include nav/nav-sidebar.html -%}
+<div id="page-content-wrapper">
+  <div class="container">
+    <div><iframe src="./search-bar.html" id="iframe" frameborder="0" scrolling="no" height="200px" width="100%"></iframe>
+    </div>
+    {%- include nav/nav-list.html -%}
+  </div>
+  {%- include footer.html -%}
+  <!-- Menu Toggle Script -->
+
+</div>
+<script>
+  $("#sidebar-toggle").click(function(e) {
+    e.preventDefault();
+    $("#wrapper").toggleClass("toggled");
+  });
+</script>

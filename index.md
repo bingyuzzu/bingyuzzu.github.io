@@ -4,7 +4,7 @@ permalink: /index.html
 ---
 <center>## YU, BING (於兵) Homepage</center>
 
-<center>### Zhengzhou University (郑州大学)</center>
+### Zhengzhou University (郑州大学) 
 
 {:.text-muted}
 

@@ -1,0 +1,11 @@
+interval: 5000 #轮播时间，单位毫秒
+image:
+    - src: /assets/img/slider/1.jpg
+      title: 测试图像1
+      description: 这个是测试图像1
+    - src: /assets/img/slider/3.jpg
+      title: 测试图像2
+      description: 这个是测试图像2
+    - src: /assets/img/slider/2.jpg
+      title: 测试图像3
+      description: 这个是测试图像3

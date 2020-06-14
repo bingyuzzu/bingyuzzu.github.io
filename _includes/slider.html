@@ -1,39 +1,28 @@
 <div id="slider" class="carousel slide" data-ride="carousel">
-	  <ol class="carousel-indicators">
-		   
+	<ol class="carousel-indicators">
+
 		{% for images in site.data.slider.images %}
-		  <li data-target="#slider" data-slide-to="{{ images.index }}"></li>
-		  {%- endfor -%}
-	  </ol>
-  <div class="carousel-inner">
-	  {%- assign _counter = 1 -%}
-   {% for images in site.data.slider.images %}
-{% if _counter == 1 %}
-  <div class="carousel-item active" data-interval="{{ site.data.slider.interval }}">
-	   <img src="{{ images.src }}" class="d-block w-100" alt="{{ images.title }}">
-		  <div class="carousel-caption d-none d-md-block">
-		    <h3>{{ images.title }}</h3>
-		    <p>{{ images.description }}</p>
-		  </div>
-	 </div>
-{%- assign _counter = 0 -%}
-{% elsif _counter == 0 %}
-  <div class="carousel-item" data-interval="{{ site.data.slider.interval }}">
-	   <img src="{{ images.src }}" class="d-block w-100" alt="{{ images.title }}">
-		  <div class="carousel-caption d-none d-md-block">
-		    <h3>{{ images.title }}</h3>
-		    <p>{{ images.description }}</p>
-		  </div>
-	 </div>
-	 {% endif %} 
-    {%- endfor -%}
-  </div>
-  <a class="carousel-control-prev" href="#slider" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#slider" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+		<li data-target="#slider" data-slide-to="{{ images.index }}"></li>
+		{%- endfor -%}
+	</ol>
+	<div class="carousel-inner">
+		{%- assign _counter = 1 -%}
+		{% for images in site.data.slider.images %}
+		<div {% if _counter==1 %} class="carousel-item active" {%- assign _counter=0 -%} {%- elsif _counter==0 -%} class="carousel-item" {% endif %} data-interval="{{ site.data.slider.interval }}">
+			<img src="{{ images.src }}" class="d-block w-100" alt="{{ images.title }}">
+			<div class="carousel-caption d-none d-md-block">
+				<h3>{{ images.title }}</h3>
+				<p>{{ images.description }}</p>
+			</div>
+		</div>
+		{%- endfor -%}
+	</div>
+	<a class="carousel-control-prev" href="#slider" role="button" data-slide="prev">
+		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span>
+	</a>
+	<a class="carousel-control-next" href="#slider" role="button" data-slide="next">
+		<span class="carousel-control-next-icon" aria-hidden="true"></span>
+		<span class="sr-only">Next</span>
+	</a>
 </div>

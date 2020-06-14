@@ -68,7 +68,8 @@ titles: Dr. Yu
 `{:.text-secondary}`
 
 {:.text-success}
-` {:.text-success}`
+.text-success
+
 {:.text-danger}
 
 {:.text-warning}

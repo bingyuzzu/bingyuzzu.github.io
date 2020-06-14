@@ -57,7 +57,7 @@ titles: Dr. Yu
 
 ​                                 南开大学 | 元素有机化学国家重点实验室 | 博士
 
------
+-------
 
 {:.text-primary}
 **Research Experience ** (工作经历)

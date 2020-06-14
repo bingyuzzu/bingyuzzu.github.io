@@ -27,11 +27,15 @@ titles: Dr. Yu
 
 -----
 
+{:.text-primary}
+
 **Research Interest** (研究兴趣)
 
 有机合成方法学 , 绿色有机合成
 
 -----
+
+{:.text-primary}
 
 **Current Position** (当前职位)
 
@@ -40,6 +44,8 @@ titles: Dr. Yu
 ​               郑州大学 | 化学与分子工程学院 | 直聘教授 | 硕士生导师 | 郑州大学青年拔尖人才
 
 -----
+
+{:.text-primary}
 
 **Education Background** (教育背景)
 
@@ -53,7 +59,9 @@ titles: Dr. Yu
 
 -----
 
-**Research Experience **(工作经历)
+{:.text-primary}
+
+**Research Experience ** (工作经历)
 
 2014/07-2017/10  Beijing Institute of Technology 北京理工大学 (Beijing, China). With [Prof. Chang-Wen Hu](http://cce.bit.edu.cn/kyjgjktz/hzwjsktz/index.htm).
 
@@ -62,6 +70,8 @@ titles: Dr. Yu
 2016/10-2017/05  Tokyo Institute of Technology 东京工业大学 (Tokyo, Japan). With [Prof. Nobuharu Iwasawa](http://www.chemistry.titech.ac.jp/~iwasawa/).
 
 -----
+
+{:.text-primary}
 
 **Publications Before Joining ZZU**
 

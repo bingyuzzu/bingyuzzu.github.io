@@ -54,7 +54,7 @@ titles: Dr. Yu
 
 .text-info
 
-{:.text-light}
+{:.text-light.bg-dark}
 
 .text-light
 

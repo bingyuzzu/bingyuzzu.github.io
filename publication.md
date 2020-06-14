@@ -247,30 +247,12 @@ DOI: 10.1021/acs.joc.8b01657
 
  
 
-5.  Guo-Ping Yang,# Shu-Xia Shang,# Bing Yu*, and Chang-Wen Hu*, Ce(III)-containing tungstotellurate(VI) with sandwich structure: an efficient Lewis acid-base catalyst for the condensation cyclization of 1,3-diketones with hydrazines/hydrazides or diamines, Inorg. Chem. Front., 2018, 5, 2472-2477. [[link](http://dx.doi.org/10.1039/C8QI00678D)]
+5.  Guo-Ping Yang,# Shu-Xia Shang,# Bing Yu*, and Chang-Wen Hu*, Ce(III)-containing tungstotellurate(VI) with sandwich structure: an efficient Lewis acid-base catalyst for the condensation cyclization of 1,3-diketones with hydrazines/hydrazides or diamines, Inorg. Chem. Front., 2018, 5, 2472-2477. [[link](http://dx.doi.org/10.1039/C8QI00678D)] DOI: 10.1039/C8QI00678D
 
-DOI: 10.1039/C8QI00678D
+4.  Guo-Ping Yang, Xing He, Bing Yu*, and Chang-Wen Hu*, Cu1.5PMo12O40-catalyzed condensation cyclization for the synthesis of substituted pyrazoles, Appl. Organomet. Chem., 2018, 32, e4532. [[link](http://dx.doi.org/10.1002/aoc.4532)] DOI: 10.1002/aoc.4532
 
- 
+3.  Bing Yu*, Bo Zou, and Chang-Wen Hu*, Recent applications of polyoxometalates in CO2 capture and transformation, J. CO2 Util., 2018, 26, 314-322. [[link](http://dx.doi.org/10.1016/j.jcou.2018.05.021)] (Review) DOI: 10.1016/j.jcou.2018.05.021
 
-4.  Guo-Ping Yang, Xing He, Bing Yu*, and Chang-Wen Hu*, Cu1.5PMo12O40-catalyzed condensation cyclization for the synthesis of substituted pyrazoles, Appl. Organomet. Chem., 2018, 32, e4532. [[link](http://dx.doi.org/10.1002/aoc.4532)]
+2.  Guo-Ping Yang, Dilireba Dilixiati, Tao Yang, Dong Liu, Bing Yu*, and Chang-Wen Hu*, Phosphomolybdic acid as a bifunctional catalyst for the Friedel-Crafts type dehydrative coupling reaction, Appl. Organomet. Chem., 2018, 32, e4450. [[link](http://dx.doi.org/10.1002/aoc.4450)] DOI: 10.1002/aoc.4450
 
-DOI: 10.1002/aoc.4532
-
- 
-
-3.  Bing Yu*, Bo Zou, and Chang-Wen Hu*, Recent applications of polyoxometalates in CO2 capture and transformation, J. CO2 Util., 2018, 26, 314-322. [[link](http://dx.doi.org/10.1016/j.jcou.2018.05.021)] (Review)
-
-DOI: 10.1016/j.jcou.2018.05.021
-
- 
-
-2.  Guo-Ping Yang, Dilireba Dilixiati, Tao Yang, Dong Liu, Bing Yu*, and Chang-Wen Hu*, Phosphomolybdic acid as a bifunctional catalyst for the Friedel-Crafts type dehydrative coupling reaction, Appl. Organomet. Chem., 2018, 32, e4450. [[link](http://dx.doi.org/10.1002/aoc.4450)]
-
- DOI: 10.1002/aoc.4450
-
- 
-
-1.  Xue Feng, Tao Yang, Xing He, Bing Yu*, and Chang-Wen Hu*, One-Pot Synthesis of Trifluoromethylated Benzimidazolines Catalyzed by Phosphotungstic Acid with A Low Catalyst Loading, Appl. Organomet. Chem., 2018, 32, e4314. [[link](http://dx.doi.org/10.1002/aoc.4314)]
-
-DOI: 10.1002/aoc.4314
+1.  Xue Feng, Tao Yang, Xing He, Bing Yu*, and Chang-Wen Hu*, One-Pot Synthesis of Trifluoromethylated Benzimidazolines Catalyzed by Phosphotungstic Acid with A Low Catalyst Loading, Appl. Organomet. Chem., 2018, 32, e4314. [[link](http://dx.doi.org/10.1002/aoc.4314)] DOI: 10.1002/aoc.4314

@@ -3,9 +3,9 @@ layout: page
 titles: Dr. Yu
 ---
 
-{:.text-center}
 
-![Bingyu](/assets/img/YuBing.webp){:.text-center}
+
+<center><img src=/assets/img/YuBing.webp" alt="Bingyu"  /></center>
 
 
 

@@ -26,7 +26,7 @@ titles: Dr. Yu
 右对齐，同上
 
 {:.aligncenter}
-居中，同上
+居中，图像
 
 {:.text-center}
 文本居中

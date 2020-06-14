@@ -3,7 +3,11 @@ layout: page
 titles: Dr. Yu
 ---
 
-![Bingyu](/assets/img/YuBing.webp)
+{:.text-center}
+
+![Bingyu](/assets/img/YuBing.webp){:.text-center}
+
+
 
 {:.text-center}
 

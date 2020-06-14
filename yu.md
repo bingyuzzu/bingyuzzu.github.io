@@ -3,9 +3,11 @@ layout: page
 titles: Dr. Yu
 ---
 
-{:.text-center}
+
 
 **於兵** **(Yu, Bing)**
+
+{:.text-center}
 
  
 
@@ -13,17 +15,19 @@ titles: Dr. Yu
 
 <center>[orcid.org/0000-0002-2423-1212](https://orcid.org/0000-0002-2423-1212)</center>
 
-\------
+-----
 
 於兵，理学博士，郑州大学教授（直聘），硕士研究生导师。 于2005-2009年在华中师范大学化学生物基地班学习，获化学、生物双学士学位，后保送到南开大学攻读研究生。 在南开大学硕博连读期间，在何良年教授指导下开展绿色有机合成研究，主要包括二氧化碳的资源化利用、绿色氧化催化反应，于2014年6月获理学博士学位。 博士毕业后，先后在北京理工大学、首尔国立大学、东京工业大学从事博士后研究。 2017年11月起，加入郑州大学化学与分子工程学院工作，从事绿色有机合成研究。
 
-\--------
+-----
+
+
 
 **Research Interest** (研究兴趣)
 
 有机合成方法学 , 绿色有机合成
 
-\-----
+-----
 
 **Current Position** (当前职位)
 
@@ -31,7 +35,7 @@ titles: Dr. Yu
 
 ​               郑州大学 | 化学与分子工程学院 | 直聘教授 | 硕士生导师 | 郑州大学青年拔尖人才
 
-\-----
+-----
 
 **Education Background** (教育背景)
 
@@ -43,7 +47,7 @@ titles: Dr. Yu
 
 ​                                 南开大学 | 元素有机化学国家重点实验室 | 博士
 
-\-------
+-----
 
 **Research Experience **(工作经历)
 
@@ -53,7 +57,7 @@ titles: Dr. Yu
 
 2016/10-2017/05  Tokyo Institute of Technology 东京工业大学 (Tokyo, Japan). With [Prof. Nobuharu Iwasawa](http://www.chemistry.titech.ac.jp/~iwasawa/).
 
-\-----
+-----
 
 **Publications Before Joining ZZU**
 

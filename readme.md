@@ -63,10 +63,12 @@ titles: Dr. Yu
 
 {:.text-primary}
 `{:.text-primary}`
+
 {:.text-secondary}
 `{:.text-secondary}`
+
 {:.text-success}
-``
+` {:.text-success}`
 {:.text-danger}
 
 {:.text-warning}

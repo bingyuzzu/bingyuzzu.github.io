@@ -62,7 +62,8 @@ titles: Dr. Yu
 ```
 
 {:.text-primary}
-``` {:.text-primary} ```
+``` {:.text-primary} 
+```
 {:.text-secondary}
 
 {:.text-success}

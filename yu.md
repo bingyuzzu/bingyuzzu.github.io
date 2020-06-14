@@ -60,7 +60,8 @@ titles: Dr. Yu
 -------
 
 {:.text-primary}
-**Research Experience ** (工作经历)
+
+**Research** **Experience** (工作经历)
 
 2014/07-2017/10  Beijing Institute of Technology 北京理工大学 (Beijing, China). With [Prof. Chang-Wen Hu](http://cce.bit.edu.cn/kyjgjktz/hzwjsktz/index.htm).
 

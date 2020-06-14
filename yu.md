@@ -3,17 +3,19 @@ layout: page
 titles: Dr. Yu
 ---
 
+![Bingyu](/assets/img/YuBing.webp)
 
+{:.text-center}
 
 **於兵** **(Yu, Bing)**
 
 {:.text-center}
 
- 
+[ResearcherID: B-7842-2012](http://www.researcherid.com/rid/B-7842-2012)
 
-<center>[ResearcherID: B-7842-2012](http://www.researcherid.com/rid/B-7842-2012) </center>
+{:.text-center}
 
-<center>[orcid.org/0000-0002-2423-1212](https://orcid.org/0000-0002-2423-1212)</center>
+[orcid.org/0000-0002-2423-1212](https://orcid.org/0000-0002-2423-1212)
 
 -----
 

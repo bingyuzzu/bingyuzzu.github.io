@@ -3,13 +3,15 @@
 		   {%- assign _slide-index = 0 -%}
 		{% for images in site.data.slider.images %}
 		  <li data-target="#slider" data-slide-to="{{ _slide-index }}"></li>
-		   {%- assign _slide-index = _slide-index + 1 -%}
+		   {%- assign _slide-index = _slide-index+1 -%}
 		  {%- endfor -%}
 	  </ol>
   <div class="carousel-inner">
+	  {%- assign _counter = 1 -%}
    {% for images in site.data.slider.images %}
+	
 	 <div class="carousel-item" data-interval="{{ site.data.slider.interval }}">
-	   <img src="{{ images.src }}" class="d-block w-100" alt="{{ images.title }}">
+	   <img src="{{ images.src }}" class="d-block w-100 {% if _counter == 1 %} active {%- assign _counter = 0 -%}{%- endif -%}" alt="{{ images.title }}">
 		  <div class="carousel-caption d-none d-md-block">
 		    <h3>{{ images.title }}</h3>
 		    <p>{{ images.description }}</p>

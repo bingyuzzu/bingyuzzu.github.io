@@ -10,18 +10,23 @@
 	  {%- assign _counter = 1 -%}
    {% for images in site.data.slider.images %}
 {% if _counter == 1 %}
-  <div class="carousel-item atcive" 
-{%- assign _counter = 0 -%}
-{% elsif _counter == 0 %}
-  <div class="carousel-item"
-{% endif %} 
-			 data-interval="{{ site.data.slider.interval }}">
+  <div class="carousel-item atcive" data-interval="{{ site.data.slider.interval }}">
 	   <img src="{{ images.src }}" class="d-block w-100" alt="{{ images.title }}">
 		  <div class="carousel-caption d-none d-md-block">
 		    <h3>{{ images.title }}</h3>
 		    <p>{{ images.description }}</p>
 		  </div>
 	 </div>
+{%- assign _counter = 0 -%}
+{% elsif _counter == 0 %}
+  <div class="carousel-item" data-interval="{{ site.data.slider.interval }}">
+	   <img src="{{ images.src }}" class="d-block w-100" alt="{{ images.title }}">
+		  <div class="carousel-caption d-none d-md-block">
+		    <h3>{{ images.title }}</h3>
+		    <p>{{ images.description }}</p>
+		  </div>
+	 </div>
+	 {% endif %} 
     {%- endfor -%}
   </div>
   <a class="carousel-control-prev" href="#slider" role="button" data-slide="prev">

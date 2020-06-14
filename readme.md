@@ -78,6 +78,6 @@ titles: Dr. Yu
 
 .text-black-50
 
-{:.text-white-50.bg-dark}
+{:.text-white-50.bg-gradient-dark}
 
 .text-white-50

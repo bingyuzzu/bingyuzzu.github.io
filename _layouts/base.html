@@ -3,11 +3,13 @@
 	<head>
 		{%- include head.html -%}
 	</head>
-	<body class="d-flex flex-column" sytle="height:100%">
-		<div id="page-content">
+<body class="d-flex flex-column" >
+  <div id="page-content">
+	  {% include header.html %}
 			<div class="container-fluid">
 				{{ content }}
 			</div>
 		</div>
 	</body>
+{% include footer.html %}
 </html>

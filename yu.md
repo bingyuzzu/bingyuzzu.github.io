@@ -5,7 +5,7 @@ titles: Dr. Yu
 
 
 
-<center><img src=/assets/img/YuBing.webp" alt="Bingyu"  /></center>
+<img src="/assets/img/YuBing.webp" alt="Bingyu"  />
 
 
 

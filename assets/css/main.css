@@ -10,3 +10,17 @@ body {
 #sticky-footer {
   flex-shrink: none;
 }
+
+.alignleft { 
+display: inline; 
+float: left; 
+} 
+.alignright { 
+display: inline; 
+float: right; 
+} 
+.aligncenter { 
+clear: both; 
+display: block; 
+margin:auto; 
+} 

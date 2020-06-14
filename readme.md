@@ -31,61 +31,53 @@ titles: Dr. Yu
 {:.text-center}
 文本居中
 
-
-可用颜色
-```
-{:.text-primary}
-
-{:.text-secondary}
-
-{:.text-success}
-
-{:.text-danger}
-
-{:.text-warning}
-
-{:.text-info}
-
-{:.text-light}
-
-{:.text-dark}
-
-{:.text-body}
-
-{:.text-muted}
-
-{:.text-white}
-
-{:.text-black-50}
-
-{:.text-white-50}
-```
+**可用颜色**
 
 {:.text-primary}
-`{:.text-primary}`
+.text-primary}
 
 {:.text-secondary}
-`{:.text-secondary}`
+.text-secondary
 
 {:.text-success}
 .text-success
 
 {:.text-danger}
 
+.text-danger
+
 {:.text-warning}
+
+.text-warning
 
 {:.text-info}
 
+.text-info
+
 {:.text-light}
+
+.text-light
 
 {:.text-dark}
 
+.text-dark
+
 {:.text-body}
+
+.text-body
 
 {:.text-muted}
 
-{:.text-white}
+.text-muted
+
+{:.text-white.bg-dark}
+
+.text-white
 
 {:.text-black-50}
 
-{:.text-white-50}
+.text-black-50
+
+{:.text-white-50.bg-dark}
+
+.text-white-50

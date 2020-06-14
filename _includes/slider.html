@@ -1,9 +1,8 @@
 <div id="slider" class="carousel slide" data-ride="carousel">
 	  <ol class="carousel-indicators">
-		   {%- assign _slide-index = 0 -%}
+		   
 		{% for images in site.data.slider.images %}
-		  <li data-target="#slider" data-slide-to="{{ _slide-index }}"></li>
-		   {%- assign _slide-index = 1+_slide-index -%}
+		  <li data-target="#slider" data-slide-to="{{ images.index }}"></li>
 		  {%- endfor -%}
 	  </ol>
   <div class="carousel-inner">

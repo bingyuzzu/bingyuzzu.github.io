@@ -1,8 +1,13 @@
 ---
 layout: page
 titles: Contact us
+permalink: /contact.html
 ---
-<br /><br /><br />
+<br />
+
+<img src="assets/img/chem-building.png" alt="chem-building" style="zoom: 35%;" />
+
+<br /><br />
 
 {:.text-center}
 

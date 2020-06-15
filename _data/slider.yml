@@ -1,8 +1,8 @@
 interval: 5000 #轮播时间，单位毫秒
 images:
-    - src: assets/img/slider/1.jpg
-      title: 测试图像1
-      description: 这个是测试图像1
+    - src: assets/img/slider/1.jpg #图片路径，必须参数
+      title: 测试图像1              #图像标题，非必须参数
+      description: 这个是测试图像1   #图像描述，非必须参数
     - src: assets/img/slider/3.jpg
       title: 测试图像2
       description: 这个是测试图像2

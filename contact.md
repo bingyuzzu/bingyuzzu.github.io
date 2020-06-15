@@ -3,11 +3,9 @@ layout: page
 titles: Contact us
 permalink: /contact.html
 ---
-<br />
 
-<img src="assets/img/chem-building.png" alt="chem-building" style="zoom: 100%;" class="aligncenter" />
 
-<br /><br />
+<img src="assets/img/chem-building.png" alt="chem-building" style="zoom: 100%;" class="aligncenter" /><br />
 
 {:.text-center}
 

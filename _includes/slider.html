@@ -2,7 +2,8 @@
 	<ol class="carousel-indicators">
 
 		{% for images in site.data.slider.images %}
-		<li data-target="#slider" data-slide-to="{{ images.index }}"></li>
+		{%- increment img-index -%}
+		<li data-target="#slider" data-slide-to="{{ img-index }}"></li>
 		{%- endfor -%}
 	</ol>
 	<div class="carousel-inner">

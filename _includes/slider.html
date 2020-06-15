@@ -7,9 +7,9 @@
 		{%- endfor -%}
 	</ol>
 	<div class="carousel-inner">
-		{%- assign _counter = 1 -%}
+		{%- increment _counter -%}
 		{% for images in site.data.slider.images %}
-		<div class="carousel-item {% if _counter==1 %} active" {%- assign _counter=0 -%} {%- elsif _counter==0 -%} " {% endif %} data-interval="{{ site.data.slider.interval }}">
+		<div class="carousel-item {% if _counter==0 %} active" {%- elsif _counter==0 -%} " {% endif %} data-interval="{{ site.data.slider.interval }}">
 			<img src="{{ images.src }}" class="d-block w-100" alt="{{ images.title }}">
 			<div class="carousel-caption d-none d-md-block">
 				<h3>{{ images.title }}</h3>

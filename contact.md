@@ -5,7 +5,7 @@ permalink: /contact.html
 ---
 <br />
 
-<img src="assets/img/chem-building.png" alt="chem-building" style="zoom: 35%;" />
+<img src="assets/img/chem-building.png" alt="chem-building" style="zoom: 100%;" />
 
 <br /><br />
 

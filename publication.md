@@ -145,9 +145,7 @@ titles: Dr. Yu
 
  
 
-10.  Kai Sun, Xiao-Lan Chen,* Shi-Jun Li, Dong-Hui Wei, Xiao-Ceng Liu, Yin-Li Zhang, Yan Liu, Lu-Lu Fan, Ling-Bo Qu, Bing Yu*, Kai Li,* Yuan-Qiang Sun,* and Yu-Fen Zhao. Copper-Catalyzed Radical Cascade Cyclization to Access 3-Sulfonated Indenones with AIE Phenomenon. J. Org. Chem., 2018, 83, 14419-14430. [[link](https://doi.org/10.1021/acs.joc.8b02175)]
-
-DOI: 10.1021/acs.joc.8b02175
+10.  Kai Sun, Xiao-Lan Chen,* Shi-Jun Li, Dong-Hui Wei, Xiao-Ceng Liu, Yin-Li Zhang, Yan Liu, Lu-Lu Fan, Ling-Bo Qu, Bing Yu*, Kai Li,* Yuan-Qiang Sun,* and Yu-Fen Zhao. Copper-Catalyzed Radical Cascade Cyclization to Access 3-Sulfonated Indenones with AIE Phenomenon. J. Org. Chem., 2018, 83, 14419-14430. [[link](https://doi.org/10.1021/acs.joc.8b02175)] DOI: 10.1021/acs.joc.8b02175
 
  
 
@@ -159,7 +157,7 @@ DOI: 10.1021/acs.joc.8b02175
 
  
 
-7.  Hao Hu, Xiaolan Chen,* Kai Sun, Junchao Wang, Yan Liu, Hui Liu, Bing Yu*, Yuanqiang Sun, Lingbo Qu, and Yufen Zhao, Silver-catalyzed decarboxylative cascade radical cyclization of tert-carboxylic acids and o-(allyloxy)arylaldehydes towards chroman-4-one derivatives. Org. Chem. Front., 2018, 5, 2925-2929.  [[link](https://doi.org/10.1039/C8QO00882E)]DOI: 10.1039/C8QO00882E
+7.  Hao Hu, Xiaolan Chen,* Kai Sun, Junchao Wang, Yan Liu, Hui Liu, Bing Yu*, Yuanqiang Sun, Lingbo Qu, and Yufen Zhao, Silver-catalyzed decarboxylative cascade radical cyclization of tert-carboxylic acids and o-(allyloxy)arylaldehydes towards chroman-4-one derivatives. Org. Chem. Front., 2018, 5, 2925-2929.  [[link](https://doi.org/10.1039/C8QO00882E)] DOI: 10.1039/C8QO00882E
 
  
 

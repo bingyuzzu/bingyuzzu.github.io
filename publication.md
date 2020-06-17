@@ -9,26 +9,37 @@ titles: Dr. Yu
 
 ## <center>2020</center>
 \42.  
+
 \41.  Xiao-Ya Yuan,# Fan-Lin Zeng,# Hu-Lin Zhu, Yan Liu, Qi-Yan Lv, Xiao-Lan Chen, Lifen Peng, and Bing Yu\*, A Metal-Free Visible-Light-Promoted Phosphorylation/Cyclization Reaction in Water towards 3-Phosphorylated Benzothiophenes. Org. Chem. Front., 2020, DOI: 10.1039/D0QO00222D. [[link](https://doi.org/10.1039/D0QO00222D)] 
-DOI: 10.1039/D0QO00222D.
+DOI: 10.1039/D0QO00222D
+
 \40.  Yu-Qin Jiang, Jing Li, Zhi-Wen Feng, Gui-Qing Xu, Xin Shi, Qing-Jie Ding, Wei Li, Chun-Hua Ma,\* and Bing Yu\*, Ethylene Glycol: A Green Solvent for Visible Light-Promoted Aerobic Transition Metal-Free Cascade Sulfonation/Cyclization Reaction. Adv. Synth. Catal. 2020, 362, DOI: 10.1002/adsc.202000233. [[link](https://doi.org/10.1002/adsc.202000233)] 
 DOI: 10.1002/adsc.202000233
+
 \39.  Lili Tang, Kejie Du, Bing Yu\*, Liangnian He\*, Oxidation of aromatic sulfides with molecular oxygen: Controllable synthesis of sulfoxides or sulfones. Chin. Chem. Lett., 2020, 31, DOI: 10.1016/j.cclet.2020.03.030. [[link](https://doi.org/10.1016/j.cclet.2020.03.030)] 
-DOI: 10.1016/j.cclet.2020.03.030.
+DOI: 10.1016/j.cclet.2020.03.030
+
 \38.  Mehwish Hussain Muhammad, Xiao-Lan Chen,\* Yan Liu, Tao Shi, Yuyu Peng, Lingbo Qu, and Bing Yu\*, Recyclable Cu@C3N4-catalyzed hydroxylation of aryl boronic acids in water under visible-light: Synthesis of phenols under ambient condition and room temperature. ACS Sustainable Chem. Eng., 2020, 8, 2682-2687. [[link](https://doi.org/10.1021/acssuschemeng.9b06010)] 
 DOI: 10.1021/acssuschemeng.9b06010
+
 \37.  Tao Shi,# Kai Sun,# Xiao-Lan Chen,\* Zhao-Xin Zhang, Xian-Qiang Huang, Yu-Yu Peng, Ling-Bo Qu, and Bing Yu\*, Recyclable Perovskite as Heterogeneous Photocatalyst for Aminomethylation of Imidazo-fused Heterocycles. Adv. Synth. Catal., 2020, 362, DOI: 10.1002/adsc.201901324. [[link](https://doi.org/10.1002/adsc.201901324)] 
 DOI: 10.1002/adsc.201901324
+
 \36.  Shuai-Qi He, Xiao-Lan Chen,\* Fan-Lin Zeng, Pei-Pei Lu, Yu-Yu Peng, Ling-Bo Qu, and Bing Yu\*, Visible-Light-Promoted Oxidative Decarboxylation of Arylacetic Acid in Air: Metal-Free Synthesis of Aldehydes and Ketones at Room Temperature. Chin. Chem. Lett., 2020, 31, DOI: 10.1016/j.cclet.2019.12.031. [[link](https://doi.org/10.1016/j.cclet.2019.12.031)] 
 DOI: 10.1016/j.cclet.2019.12.031
+
 \35.  Yan Liu,# Shi-Jun Li,# Xiao-Lan Chen,\* Lu-Lu Fan,\* Xiao-Yun Li, Shan-Shan Zhu, Ling-Bo Qu, and Bing Yu\*, Mn(III)-Mediated Regioselective 6-endo-trig Radical Cyclization of o-Vinyl Arylisocyanides to Access 2-Funtionalized Quinolines. Adv. Synth. Catal., 2020, 362(3), 688-694. [[link](https://doi.org/10.1002/adsc.201901300)] 
 DOI: 10.1002/adsc.201901300
+
 \34.  Kai Sun, Yin-Li Zhang, Xiao-Lan Chen,\* Hui-Fang Su, Qiu-Chen Peng, Bing Yu\*, Ling-Bo Qu, Kai Li\*, A kind of atypical AIEgens used for one-photon/two-photon targeted-imaging in live cells. ACS Appl. Bio Mater., 2020, 3(1), 505-511. [[link](https://doi.org/10.1021/acsabm.9b00946)] 
 DOI: 10.1021/acsabm.9b00946
+
 \33.  Li Xiong,# Hao Hu,# Chuan-Wan Wei, and Bing Yu\*, Radical reactions for the synthesis of 3-substituted chroman-4-ones. Eur. J. Org. Chem., 2020, 2020, 1588-1597. [[link](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901581)] 
 DOI: 10.1002/ejoc.201901581
+
 \32.  Xiao-Ceng Liu, Xiao-Lan Chen,\* Yan Liu, Kai Sun,\* Yu-Yu Peng, Ling-Bo Qu, and Bing Yu\*, Visible-Light-Induced Metal-Free Synthesis of 2‑Phosphorylated Thioflavones in Water. ChemSusChem, 2020, 13(2), 298-303. [[link](https://doi.org/10.1002/cssc.201902817)] 
 DOI: 10.1002/cssc.201902817
+
 \31.  Yu Song, Xing He, Bing Yu, Hong-Ru Li,\* and Liang-Nian He\*, Protic ionic liquid-promoted synthesis of dimethyl carbonate from ethylene carbonate and methanol. Chin. Chem. Lett., 2020, 31(3), 667-672. [[link](https://doi.org/10.1016/j.cclet.2019.07.053)] 
 DOI: 10.1016/j.cclet.2019.07.053
 -----

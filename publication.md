@@ -7,7 +7,8 @@ titles: Dr. Yu
 
  
 
-## 2020
+## <center>2020</center>
+
 42.  
 41.  Xiao-Ya Yuan,# Fan-Lin Zeng,# Hu-Lin Zhu, Yan Liu, Qi-Yan Lv, Xiao-Lan Chen, Lifen Peng, and Bing Yu\*, A Metal-Free Visible-Light-Promoted Phosphorylation/Cyclization Reaction in Water towards 3-Phosphorylated Benzothiophenes. Org. Chem. Front., 2020, DOI: 10.1039/D0QO00222D. [[link](https://doi.org/10.1039/D0QO00222D)] DOI: 10.1039/D0QO00222D.
 40.  Yu-Qin Jiang, Jing Li, Zhi-Wen Feng, Gui-Qing Xu, Xin Shi, Qing-Jie Ding, Wei Li, Chun-Hua Ma,\* and Bing Yu\*, Ethylene Glycol: A Green Solvent for Visible Light-Promoted Aerobic Transition Metal-Free Cascade Sulfonation/Cyclization Reaction. Adv. Synth. Catal. 2020, 362, DOI: 10.1002/adsc.202000233. [[link](https://doi.org/10.1002/adsc.202000233)] DOI: 10.1002/adsc.202000233
@@ -20,8 +21,11 @@ titles: Dr. Yu
 33.  Li Xiong,# Hao Hu,# Chuan-Wan Wei, and Bing Yu\*, Radical reactions for the synthesis of 3-substituted chroman-4-ones. Eur. J. Org. Chem., 2020, 2020, 1588-1597. [[link](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901581)] DOI: 10.1002/ejoc.201901581
 32.  Xiao-Ceng Liu, Xiao-Lan Chen,\* Yan Liu, Kai Sun,\* Yu-Yu Peng, Ling-Bo Qu, and Bing Yu\*, Visible-Light-Induced Metal-Free Synthesis of 2‑Phosphorylated Thioflavones in Water. ChemSusChem, 2020, 13(2), 298-303. [[link](https://doi.org/10.1002/cssc.201902817)] DOI: 10.1002/cssc.201902817
 31.  Yu Song, Xing He, Bing Yu, Hong-Ru Li,\* and Liang-Nian He\*, Protic ionic liquid-promoted synthesis of dimethyl carbonate from ethylene carbonate and methanol. Chin. Chem. Lett., 2020, 31(3), 667-672. [[link](https://doi.org/10.1016/j.cclet.2019.07.053)] DOI: 10.1016/j.cclet.2019.07.053
+
 -----
-## 2019
+
+## <center>2019</center>
+
 30.  Tian-Yi Shang, Qi-Yan Lv, Yan Liu,\* and Bing Yu\*, Application of Ugi/Diels-Alder Tandem Reaction in the Construction of Heterocyclic Compounds. Progress in Chemistry, 2019, 31(10): 1362-1371. (Review in Chinese). [[link](https://doi.org/10.7536/PC190519)] DOI: 10.7536/PC190519
 29.  Kai Sun,# Ya-Feng Si,# Xiao-Lan Chen,\* Qi-Yan Lv,\* Yu-Yu Peng, Ling-Bo Qu and Bing Yu\*, Synthesis of Phosphoryl-Substituted Benzimidazo[2,1-a]isoquinolin-6(5H)-ones from 2-Arylbenzoimidazoles and Diarylphosphine Oxides. Asian J. Org. Chem., 2019, 8, 2042-2045. [[link](https://doi.org/10.1002/ajoc.201900570)] DOI: 10.1002/ajoc.201900570
 28.  Fan-Lin Zeng,# Kai Sun,# Xiao-Lan Chen,\* Xiao-Ya Yuan, Shuai-Qi He, Yan Liu, Yu-Yu Peng, Ling-Bo Qu, Qi-Yan Lv,\* and Bing Yu\*, Metal-Free Visible-Light Promoted Radical Cyclization to Access Perfluoroalkyl-Substituted Benzimidazo[2,1-a]isoquinolin-6(5H)-ones and Indolo[2,1-a]isoquinolin-6(5H)-ones. Adv. Synth. Catal., 2019, 361, 5176-5181. [[link](https://doi.org/10.1002/adsc.201901016)] DOI: 10.1002/adsc.201901016
@@ -41,8 +45,11 @@ titles: Dr. Yu
 14.  Guo-Ping Yang, Xun Wu, Bing Yu\*, and Chang-Wen Hu\*, Ionic Liquid from Vitamin B1 Analogue and Heteropolyacid: A Recyclable Heterogeneous Catalyst for Dehydrative Coupling in Organic Carbonate. ACS Sustainable Chem. Eng., 2019, 7, 3727-3732. [[link](https://doi.org/10.1021/acssuschemeng.8b06445)] DOI: 10.1021/acssuschemeng.8b06445
 13.  Mehwish Hussain Muhammad, Xiao-Lan Chen,\* Bing Yu\*, Ling-Bo Qu, and Yu-Fen Zhao. Applications of H-Phosphonates for C Element Bond Formation. Pure Appl. Chem., 2019, 91, 33-41. [[link](https://doi.org/10.1515/pac-2018-0906)] (Invited Review) DOI: 10.1515/pac-2018-0906
 12.  Chunfeng Jing, Xiaolan Chen,\* Kai Sun, Yongkang Yang, Tong Chen, Yan Liu, Lingbo Qu, Yufen Zhao, and Bing Yu\*, Copper-Catalyzed C4-H Regioselective Phosphorylation/Trifluoromethylation of Free 1-Naphthylamines. Org. Lett., 2019, 21, 486-489. [[link](https://doi.org/10.1021/acs.orglett.8b03768)]
+
 -----
-## 2018
+
+## <center>2018</center>
+
 11.  Rui Li, Xiaolan Chen,\* Shengkai Wei, Kai Sun, Lulu Fan, Yan Liu, Lingbo Qu, Yufen Zhao, and  Bing Yu\*, A visible-light-promoted metal-free strategy towards arylphosphonates: organic-dye-catalyzed phosphorylation of arylhydrazines with trialkylphosphites. Adv. Synth. Catal., 2018, 360, 4807-4813. [[link](https://doi.org/10.1002/adsc.201801122)]  [ADSC2018.pdf](http://www.escience.cn/system/file?fileId=103464) DOI: 10.1002/adsc.201801122
 10.  Kai Sun, Xiao-Lan Chen,\* Shi-Jun Li, Dong-Hui Wei, Xiao-Ceng Liu, Yin-Li Zhang, Yan Liu, Lu-Lu Fan, Ling-Bo Qu, Bing Yu\*, Kai Li,\* Yuan-Qiang Sun,\* and Yu-Fen Zhao. Copper-Catalyzed Radical Cascade Cyclization to Access 3-Sulfonated Indenones with AIE Phenomenon. J. Org. Chem., 2018, 83, 14419-14430. [[link](https://doi.org/10.1021/acs.joc.8b02175)] DOI: 10.1021/acs.joc.8b02175
 09.  Kui Xu,# Bing Yu,# Yuanyuan Li,\* Huifang Su, Bingnan Wang, Kai Sun, Yuanyuan Liu, Qiuchen Peng, Hongwei Hou\* and Kai Li\*, Photo-induced free radical production in a tetraphenylethylene ligand-based metal-organic frameworks. Chem. Commun., 2018, 54, 12942-12945. [[link](https://doi.org/10.1039/C8CC06662K)] DOI: 10.1039/C8CC06662K

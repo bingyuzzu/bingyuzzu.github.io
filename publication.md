@@ -8,7 +8,7 @@ titles: Dr. Yu
  
 
 ## 2020
-
+42.  
 41.  Xiao-Ya Yuan,# Fan-Lin Zeng,# Hu-Lin Zhu, Yan Liu, Qi-Yan Lv, Xiao-Lan Chen, Lifen Peng, and Bing Yu\*, A Metal-Free Visible-Light-Promoted Phosphorylation/Cyclization Reaction in Water towards 3-Phosphorylated Benzothiophenes. Org. Chem. Front., 2020, DOI: 10.1039/D0QO00222D. [[link](https://doi.org/10.1039/D0QO00222D)] DOI: 10.1039/D0QO00222D.
 40.  Yu-Qin Jiang, Jing Li, Zhi-Wen Feng, Gui-Qing Xu, Xin Shi, Qing-Jie Ding, Wei Li, Chun-Hua Ma,\* and Bing Yu\*, Ethylene Glycol: A Green Solvent for Visible Light-Promoted Aerobic Transition Metal-Free Cascade Sulfonation/Cyclization Reaction. Adv. Synth. Catal. 2020, 362, DOI: 10.1002/adsc.202000233. [[link](https://doi.org/10.1002/adsc.202000233)] DOI: 10.1002/adsc.202000233
 39.  Lili Tang, Kejie Du, Bing Yu\*, Liangnian He\*, Oxidation of aromatic sulfides with molecular oxygen: Controllable synthesis of sulfoxides or sulfones. Chin. Chem. Lett., 2020, 31, DOI: 10.1016/j.cclet.2020.03.030. [[link](https://doi.org/10.1016/j.cclet.2020.03.030)] DOI: 10.1016/j.cclet.2020.03.030.

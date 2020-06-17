@@ -8,7 +8,6 @@ titles: Dr. Yu
  
 
 ## <center>2020</center>
-<p style="text-align:justify; text-justify:inter-ideograph;">
 \42.  
 \41.  Xiao-Ya Yuan,# Fan-Lin Zeng,# Hu-Lin Zhu, Yan Liu, Qi-Yan Lv, Xiao-Lan Chen, Lifen Peng, and Bing Yu\*, A Metal-Free Visible-Light-Promoted Phosphorylation/Cyclization Reaction in Water towards 3-Phosphorylated Benzothiophenes. Org. Chem. Front., 2020, DOI: 10.1039/D0QO00222D. [[link](https://doi.org/10.1039/D0QO00222D)] 
 DOI: 10.1039/D0QO00222D.
@@ -32,7 +31,6 @@ DOI: 10.1002/ejoc.201901581
 DOI: 10.1002/cssc.201902817
 \31.  Yu Song, Xing He, Bing Yu, Hong-Ru Li,\* and Liang-Nian He\*, Protic ionic liquid-promoted synthesis of dimethyl carbonate from ethylene carbonate and methanol. Chin. Chem. Lett., 2020, 31(3), 667-672. [[link](https://doi.org/10.1016/j.cclet.2019.07.053)] 
 DOI: 10.1016/j.cclet.2019.07.053
-</p>
 -----
 
 ## <center>2019</center>

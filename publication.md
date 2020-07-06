@@ -8,6 +8,9 @@ titles: Dr. Yu
  
 
 ## <center>2020</center>
+44.   
+
+
 43.   Ya-Feng Si, Xiao-Lan Chen,\* Xiao-Yang Fu, Kai Sun, Xiaojie Song, Ling-Bo Qu, and Bing Yu\*, Divergent g-C3N4-catalyzed reactions of quinoxalin-2(1H)-ones with N-aryl glycines under visible light: Solvent-controlled hydroaminomethylation and annulation. ACS Sustainable Chem. Eng., 2020, DOI: 10.1021/acssuschemeng.0c02289. [[link](https://doi.org/10.1021/acssuschemeng.0c02289)]
 
 DOI: 10.1021/acssuschemeng.0c02289
